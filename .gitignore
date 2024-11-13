@@ -1,4 +1,4 @@
 __pycache__
 legacy
 .gitignore
-.ipynb_checkpoints
+.ipynb_checkpoints/
