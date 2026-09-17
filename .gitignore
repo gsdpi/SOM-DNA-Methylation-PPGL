@@ -1,0 +1,36 @@
+# Archivos locales
+*.pkl
+figures/*
+!figures/.gitkeep
+data/*
+!data/.gitkeep
+!data/epigenetics_data_ppgl_filtered.h5
+interactive_app/static/*
+!interactive_app/static/.gitkeep
+interactive_app/data/*
+!interactive_app/data/.gitkeep  
+
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+ENV/
+.env/
+.venv/
+
+# Archivos de configuración y secretos
+*.env
+*.DS_Store
+
+# Archivos creados por herramientas y editores
+*.swp
+.idea/
+.vscode/
+*.log
+output.html
+/static/selected_data.xlsx
+/interactive_app/static/selected_data.xlsx
