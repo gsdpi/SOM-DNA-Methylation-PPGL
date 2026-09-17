@@ -80,7 +80,7 @@ A demo with an interactive app demonstrating these techniques available here:
 
 If you use this code, please cite the article:
 
-> *Full citation will be provided upon publication*
+> Díaz, I., Enguita, J. M., Cuadrado, A. A., García, D., Roos-Hoefgeest, S., Cubiella, T., Valdés, N., & Chiara, M. D. (2026). User-Guided Visual Analytics of Genome-Wide DNA Methylation Data Based on Self-Organizing Maps. IEEE Transactions on Computational Biology and Bioinformatics, 23(4), 1734-1746. https://doi.org/10.1109/TCBBIO.2026.3696739
 
 ## 📄 License
 
